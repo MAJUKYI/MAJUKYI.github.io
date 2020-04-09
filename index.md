@@ -1,7 +1,6 @@
-# 眞雪のページ
-***
 ## 自己紹介
-　猫をしています。猫股になります。
+　眞雪（[Twitter@MajukyiSanapey](https://twitter.com/MajukyiSanapey)）と申します。  
+ 猫をしています。猫股になります。ラテン文字綴りは慣習によってMajukyiが基本ですが，Mayukiでも構いません。
 ***
 ## 制作予定物（Web上）
 ### 日琉諸語 / Japonic languages
@@ -22,6 +21,6 @@
 　およづれ。
 ### 和歌 / Waka
 * [和歌](http://www.utayom.in/users/7977)
-## 国語国字問題 / on the Japanese orthography reform
+### 国語国字問題 / on the Japanese orthography reform
 * [霜月]()
 　未作成。
