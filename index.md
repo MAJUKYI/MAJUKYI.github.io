@@ -1,7 +1,8 @@
+Here’s Mayuki’s page. Almost all the links are in Japanese.
 ## 自己紹介
 　眞雪（[Twitter@MajukyiSanapey](https://twitter.com/MajukyiSanapey)）と申します。  
  猫をしています。猫股になります。ラテン文字綴りは慣習によってMajukyiが基本ですが，Mayukiでも構いません。
-***
+
 ## 制作予定物（Web上）
 ### 日琉諸語 / Japonic languages
 * [日琉諸語研究 / Studies on Japonic](https://note.com/nigwatu/m/ma197b0221e8e)  
