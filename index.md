@@ -1,7 +1,7 @@
 Here’s Mayuki’s page. Almost all the links are in Japanese.
 ## 自己紹介
 　眞雪（[Twitter@MajukyiSanapey](https://twitter.com/MajukyiSanapey)）と申します。  
- 猫をしています。猫股になります。ラテン文字綴りは慣習によってMajukyiが基本ですが，Mayukiでも構いません。
+　猫をしています。猫股になります。ラテン文字綴りは慣習によってMajukyiが基本ですが，Mayukiでも構いません。
 
 ## 制作予定物（Web上）
 ### 日琉諸語 / Japonic languages
@@ -21,7 +21,9 @@ Here’s Mayuki’s page. Almost all the links are in Japanese.
 * [芸術言語研究](https://note.com/nigwatu/m/m1ba4bf009c68)
 　およづれ。
 ### 和歌 / Waka
-* [和歌](http://www.utayom.in/users/7977)
+* [うたよみん](http://www.utayom.in/users/7977)
+* 千種和歌所
+　以前登録していたがアカウントが消滅。
 ### 国語国字問題 / on the Japanese orthography reform
 * [霜月]()
 　未作成。
