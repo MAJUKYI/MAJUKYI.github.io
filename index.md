@@ -1,6 +1,6 @@
 Here’s Mayuki’s page. Almost all the links are in Japanese.
 ## 自己紹介
-　眞雪（[Twitter@MajukyiSanapey](https://twitter.com/MajukyiSanapey)）と申します。  
+　眞雪（[Twitter@nekw0](https://twitter.com/nekw0)）と申します。  
 　猫をしています。猫股になります。ラテン文字綴りは慣習によってMajukyiが基本ですが，Mayukiでも構いません。
 
 ## 制作予定物（Web上）
