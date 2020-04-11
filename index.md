@@ -12,7 +12,7 @@ Here’s Mayuki’s page. Almost all the links are in Japanese.
 　兒戲。
 * [日琉祖語写映形導出器]()  
 　未作成。
-### アイヌ祖語 / Proto-Ainuic
+### アイヌ祖語 / Proto-Ainuic reconstruction
 * [アイヌ祖語研究 / Studies on Proto-Ainuic](https://note.com/nigwatu/m/me4ef65753438)  
 　苦言。
 * [記録前アイヌ語データベース]()  
@@ -24,6 +24,6 @@ Here’s Mayuki’s page. Almost all the links are in Japanese.
 * [うたよみん](http://www.utayom.in/users/7977)
 * 千種和歌所  
 　以前登録していたがアカウントが消滅。
-### 国語国字問題 / on the Japanese orthography reform
+### 国語国字問題
 * [霜月]()  
 　未作成。
