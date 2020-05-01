@@ -21,7 +21,7 @@ Here’s Mayuki’s page. Almost all the links are in Japanese.
 * [芸術言語研究](https://note.com/nigwatu/m/m1ba4bf009c68)  
 　およづれ。
 ### [アルビス](https://pianists.github.io/PsMemoBlog/conworld/)
-* [Majukyi.github.io/Albis](https://Majukyi.github.io/Albis)参照。
+* [Majukyi.github.io/Alubis](https://Majukyi.github.io/Alubis)参照。
 ### 和歌 / Waka
 * [うたよみん](http://www.utayom.in/users/7977)
 * 千種和歌所  
