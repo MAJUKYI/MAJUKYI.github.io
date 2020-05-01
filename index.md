@@ -20,6 +20,8 @@ Here’s Mayuki’s page. Almost all the links are in Japanese.
 ### [芸術言語研究](https://conlinguistics.wikia.org/ja/wiki/%E8%8A%B8%E8%A1%93%E8%A8%80%E8%AA%9E%E7%A0%94%E7%A9%B6) / Artistic langauge Studies
 * [芸術言語研究](https://note.com/nigwatu/m/m1ba4bf009c68)  
 　およづれ。
+### [アルビス](https://pianists.github.io/PsMemoBlog/conworld/)
+* [Majukyi.github.io/Albis](Majukyi.github.io/Albis)参照。
 ### 和歌 / Waka
 * [うたよみん](http://www.utayom.in/users/7977)
 * 千種和歌所  
@@ -28,6 +30,6 @@ Here’s Mayuki’s page. Almost all the links are in Japanese.
 * [霜月]()  
 　未作成。
 ### 自己紹介
-* グレゴリオ暦2020年4月13日現在，プラグマティズム倫理・唯物論・ニヒリズムに似た場所に立った上で理神論・汎神論とケアの倫理に似た主張をしています。数ヶ月以内に変わるかも知れないので，この情報はあまり信用しないでください。
-* 自身の再構している日琉祖語・倭祖語・アイヌ祖語について呟いています。
-* チェジュ語を主に学習しています。
+* 日琉祖語以前の共時態の日琉語と，アイヌ祖語の再構をしているつもりです。
+* ユーラシアの歴史言語学に全般的に興味がありました。
+* [アルビス](https://pianists.github.io/PsMemoBlog/conworld/)の創作に所属しています。
