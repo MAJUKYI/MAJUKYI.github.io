@@ -1,7 +1,10 @@
 Here’s Mayuki’s page. Almost all the links are in Japanese.
 ## 自己紹介
 　眞雪（[Twitter@nekw0](https://twitter.com/nekw0)）と申します。  
-　猫をしています。猫股になります。ラテン文字綴りは慣習によってMajukyiが基本ですが，Mayukiでも構いません。
+　猫をしています。猫股になります。ラテン文字綴りは慣習によってMajukyiが基本ですが，Mayukiでも構いません。 
+* 日琉祖語以前の共時態の日琉語と，アイヌ祖語の再構をしているつもりです。
+* ユーラシアの歴史言語学に全般的に興味がありました。
+* [アルビス](https://pianists.github.io/PsMemoBlog/conworld/)の創作に所属しています。
 
 ## 制作予定物（Web上）
 ### 日琉諸語 / Japonic languages
@@ -29,7 +32,3 @@ Here’s Mayuki’s page. Almost all the links are in Japanese.
 ### 国語国字問題
 * [霜月]()  
 　未作成。
-### 自己紹介
-* 日琉祖語以前の共時態の日琉語と，アイヌ祖語の再構をしているつもりです。
-* ユーラシアの歴史言語学に全般的に興味がありました。
-* [アルビス](https://pianists.github.io/PsMemoBlog/conworld/)の創作に所属しています。
