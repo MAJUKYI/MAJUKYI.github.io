@@ -1,10 +1,12 @@
 Here’s Mayuki’s page. Almost all the links are in Japanese.
+### マクシム
+** 有情へ，全肯定・不加害・不干渉・宥和。 **
 ## 自己紹介
 　眞雪（[Twitter@nekw0](https://twitter.com/nekw0)）と申します。  
 　猫をしています。猫股になります。ラテン文字綴りは慣習によってMajukyiが基本ですが，Mayukiでも構いません。 
 * 日琉祖語以前の共時態の日琉語と，アイヌ祖語の再構をしているつもりです。
 * ユーラシアの歴史言語学に全般的に興味がありました。
-* [アルビス](https://pianists.github.io/PsMemoBlog/conworld/)の創作に所属しています。
+* [仮想世界アルビス](https://pianists.github.io/PsMemoBlog/conworld/)の創作に所属しています。
 
 ## 制作予定物（Web上）
 ### 日琉諸語 / Japonic languages
@@ -13,8 +15,7 @@ Here’s Mayuki’s page. Almost all the links are in Japanese.
 * [日琉語族（一般向け）](https://note.com/nigwatu/m/ma123c42f2abb)
 * [Majukyi_lodge](https://majukyi.github.io/Japonic/)  
 　兒戲。
-* [日琉祖語写映形導出器]()  
-　未作成。
+* [日琉祖語写映形導出器](https://majukyi.github.io/Japonic/ReflpJc)  
 ### アイヌ祖語 / Proto-Ainuic reconstruction
 * [アイヌ祖語研究 / Studies on Proto-Ainuic](https://note.com/nigwatu/m/me4ef65753438)  
 　苦言。
