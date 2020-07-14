@@ -4,7 +4,7 @@
 * [アイヌ祖語研究 / Studies on Proto-ainuic](https://note.com/nigwatu/m/me4ef65753438)  
 　苦言。（Including notes in English）
 ### 日琉諸語 / Japonic languages 
-　⟪げんご♡⟫の方にも，過去に書いた拙い記事がございます。拙すぎて手直しの致し様もございませんが，過去の水準の記録のためにとっております。
+　⟪げんご♡⟫の方にも，過去に書いた拙い記事がございます。拙すぎて手直しの致し様もございませんが，過去の水準の記録のために保存させていただいております。
 * [日琉諸語研究 / Studies on Japonic](https://note.com/nigwatu/m/ma197b0221e8e)  
 　戯言。（Including notes in English）
 * [日琉語族（一般向け）](https://note.com/nigwatu/m/ma123c42f2abb)
