@@ -1,7 +1,7 @@
 　[眞雪](https://twitter.com/nekw0)のリンク集です。
+* [わたしの日本語について（12020年8月5日版）](https://Majukyi.github.io/Japonic/MyJapanese120200805)
 # 作品
 # アイヌ祖語 / Proto-Ainuic reconstruction
-いちど[Majukyi_lodge](https://Majukyi.github.io/Japonic) もご確認ください。
 * [アイヌ祖語研究 / Studies on Proto-ainuic](https://note.com/nigwatu/m/me4ef65753438)  
 　苦言。（Including notes in English）
 # 日琉諸語 / Japonic languages 
@@ -9,8 +9,10 @@
 * [日琉諸語研究 / Studies on Japonic](https://note.com/nigwatu/m/ma197b0221e8e)  
 戯言。（Including notes in English）
 * [日琉語族（一般向け）](https://note.com/nigwatu/m/ma123c42f2abb)
-* [Majukyi_lodge](https://majukyi.github.io/Japonic/)  
-兒戲。
+* [上代日本語の音韻](https://majukyi.github.io/Japonic/上代日本語の音韻.pdf)  
+　Menhera.org での発表会のために2020年07月19日0時に作成されました。
+* [日琉祖語音韻論概説(β)：音素編.pdf](https://majukyi.github.io/Japonic/日琉祖語音韻論概説(β)：音素編.pdf)
+　極めて急進的な内容なので閲覧非推奨．
 # [芸術言語研究](https://conlinguistics.wikia.org/ja/wiki/%E8%8a%B8%E8%a1%93%E8%a8%80%E8%aa%9E%E7%a0%94%E7%a9%B6)
 過去に人工言語学 Wiki に書いた内容は余りにもつたなうて目も当てられませんが，加筆する暇がございません。
 * [芸術言語研究](https://note.com/nigwatu/m/m1ba4bf009c68)  
@@ -30,10 +32,10 @@
 # 氷原文庫
 過去ツイートはわたくしの現在の思想信条・信仰とは多分に異なるものを含んでいることが予想され，これらに基づいた現在のわたくしへの攻撃は全く無効でございます；これらには虚偽の情報が含まれる場合もあります。
 * [氷原拾遺󠄁](https://twitter.com/12003_09_17) 
-将来的に bot 化予定
 * [氷原文庫《創刊，そして廃刊に当たって》](https://Majukyi.github.io/Twitter)
 ## 既刊一覧
 ## @nekw0
+　公開停止中
 * [@nekw0-2020-06-15](https://Majukyi.github.io/Twitter/Tweets-nekw0-2020-06-15/Your_archive.html)
 * [@nekw0-2020-05-15](https://Majukyi.github.io/Twitter/Tweets-nekw0-2020-05-15/Your_archive.html)
 * [@nekw0~@MajukyiSanapey-2020-04-13](Majukyi.github.io/Twitter/Tweets-MajukyiSanapey-nekw0-2020-04-13/Your_archive.html)
